@@ -1,0 +1,14 @@
+{
+    "name": "a3naumov/pure-php-cloud-storage-web-api",
+    "description": "pure-php-cloud-storage-web-api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Artem Naumov",
+            "email": "naumovartem272@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    }
+}
